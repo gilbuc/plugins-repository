@@ -5,10 +5,10 @@
 	"release_date": "18.03.2021",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "_DOWNLOAD_URL_",
+	"download_url": "https://github.com/gilbuc/bludit-losungen/archive/master.zip",
 	"demo_url": "https://www.familie-buchner.at",
-	"information_url": "_INFORMATION_URL_",
-	"description": "_DESCRIPTION_",
+	"information_url": "https://github.com/gilbuc/bludit-losungen",
+	"description": "Displays the daily texts in the sidebar (only in german language)",
 	"features": {
 		"0": "",
 		"1": "",
